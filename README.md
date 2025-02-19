@@ -1,0 +1,1 @@
+This repository demonstrates a bug and its solution related to Expo's Linking API. The bug involves the `Linking.addEventListener` function not consistently triggering when handling deep links, particularly when the app is already running. The solution provides a more robust approach to ensure deep links are always handled correctly.
